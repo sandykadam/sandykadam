@@ -22,17 +22,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandykadam&theme=onedark" alt="sandykadam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rckstrsandykadam" target="blank"><img src="https://img.shields.io/twitter/follow/rckstrsandykadam?logo=twitter&style=for-the-badge" alt="rckstrsandykadam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sandykadam" target="blank"><img src="https://img.shields.io/twitter/follow/sandykadam?logo=twitter&style=for-the-badge" alt="sandykadam" /></a> </p>
 
-- 🔭 I’m currently working on [react-chess-game](https://sandykadam.github.io/react-chess-game/)
 
 - 👯 I’m looking to collaborate on **packages/frameworks**
 
 - 📝 I sometimes write articles on [medium.com](https://medium.com/@sandykadam)
 
-- 📫 How to reach me **sandykadamgaykawad@gmail.com**
+- 📫 You can reach out to me by filling this **[form](https://www.sandykadam.com/#fh5co-consult)**
 
-- 📄 Know about my experiences [resume](https://portfolio-react-rckstrsandykadam.vercel.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
