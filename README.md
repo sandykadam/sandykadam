@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandykadam&label=Profile%20views&color=0e75b6&style=flat" alt="sandykadam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandykadam&theme=onedark" alt="sandykadam" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandykadam&theme=onedark" alt="sandykadam" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/sandykadam" target="blank"><img src="https://img.shields.io/twitter/follow/sandykadam?logo=twitter&style=for-the-badge" alt="sandykadam" /></a> </p>
 
